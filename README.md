@@ -1,7 +1,7 @@
 ## 👋 Hi there, Hristian Garnev here.
 
 ## 🚀 About me
-My name is Hristian, a Senior Software Engineer.
+My name is Hristian, a Senior Software Engineer, located in Sofia, Bulgaria, currently working in [SumUp](https://sumup.com).
 
 I'm a highly motivated personality, creative-thinking, adaptable to different conditions with desireto constantly discover and learn new things and share experience.
 
