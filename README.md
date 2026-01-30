@@ -1,4 +1,4 @@
-## Howdy 👋 I'm Hristian
+## Howdy 👋
 
 I'm Hristian Garnev, an Engineering Manager at SumUp, working in the Global Bank domain.
 
@@ -13,10 +13,5 @@ I'm Hristian Garnev, an Engineering Manager at SumUp, working in the Global Bank
 - Pragmatic engineering practices
 - Developer experience
 - Building tech that supports millions of businesses
-
-#### 🧠 Currently focused on
-- Engineering leadership
-- System design & architecture
-- Continuous improvement (of systems *and* people)
 
 > _Build things. Learn constantly. Leave systems better than you found them._
