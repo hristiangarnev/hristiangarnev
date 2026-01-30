@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Hristian
+## Howdy 👋 I'm Hristian
 
 I'm Hristian Garnev, an Engineering Manager at SumUp, working in the Global Bank domain.
 
