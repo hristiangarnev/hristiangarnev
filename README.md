@@ -15,4 +15,7 @@ I'm Hristian Garnev, an Engineering Manager at SumUp, working in the Global Bank
 - Building tech that supports millions of businesses
 - AI, agents & agentic workflows - exploring MCP, AI-assisted dev workflows, and making tools that help engineers ship faster
 
+#### ✉️ Get in touch
+- [LinkedIn](https://www.linkedin.com/in/hristiangarnev/)
+
 > _Build things. Learn constantly. Leave systems better than you found them._
