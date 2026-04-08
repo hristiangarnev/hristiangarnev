@@ -1,6 +1,9 @@
 ## Howdy 👋
 
-I'm Hristian Garnev, an Engineering Manager at SumUp, working in the Global Bank domain.
+I'm Hristian Garnev.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00c6ff&width=435&lines=Engineering+Manager+%40+SumUp;Code+writer.+Team+builder.;AI+%26+agentic+workflows+explorer.)](https://git.io/typing-svg)
+
 
 #### 💼 What I do
 - Lead and mentor a small team of engineers building and supporting web products
