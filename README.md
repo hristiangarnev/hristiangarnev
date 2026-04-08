@@ -20,5 +20,5 @@ I'm Hristian Garnev, Engineering Manager at SumUp, working in the Global Bank do
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hristiangarnev/)
 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=300&pause=0&color=00FF00&width=20&repeat=true&lines=%3E;++" alt=">"/></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00c6ff&width=580&lines=%F0%9F%94%A8+Build+things.;%F0%9F%93%9A+Learn+constantly.;%E2%9C%A8+Leave+systems+better+than+you+found+them." alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=300&pause=0&color=00FF00&width=20&repeat=true&lines=%3E;++" alt=">"/></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00c6ff&width=580&lines=%F0%9F%94%A8+Build+things.;%F0%9F%93%9A+Learn+constantly.;%E2%9C%A8+Leave+systems+better+than+you+found+them." alt="Typing SVG"/></a>
 </p>
